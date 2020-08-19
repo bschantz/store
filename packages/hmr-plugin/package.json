@@ -17,6 +17,6 @@
         "@ngxs/store": "ngxs-store"
       }
     },
-    "dest": "../../@ngxs/hmr-plugin"
+    "dest": "../../dist/@ngxs/hmr-plugin"
   }
 }

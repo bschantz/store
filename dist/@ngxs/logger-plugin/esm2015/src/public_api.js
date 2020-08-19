@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: src/public_api.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { NgxsLoggerPluginModule } from './logger.module';
+export { NgxsLoggerPlugin } from './logger.plugin';
+export { NGXS_LOGGER_PLUGIN_OPTIONS } from './symbols';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3BhY2thZ2VzL2xvZ2dlci1wbHVnaW4vc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7QUFBQSxPQUFPLEVBQUUsc0JBQXNCLEVBQUUsTUFBTSxpQkFBaUIsQ0FBQztBQUN6RCxPQUFPLEVBQUUsZ0JBQWdCLEVBQUUsTUFBTSxpQkFBaUIsQ0FBQztBQUNuRCwyQ0FBYyxXQUFXLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBOZ3hzTG9nZ2VyUGx1Z2luTW9kdWxlIH0gZnJvbSAnLi9sb2dnZXIubW9kdWxlJztcbmV4cG9ydCB7IE5neHNMb2dnZXJQbHVnaW4gfSBmcm9tICcuL2xvZ2dlci5wbHVnaW4nO1xuZXhwb3J0ICogZnJvbSAnLi9zeW1ib2xzJztcbiJdfQ==

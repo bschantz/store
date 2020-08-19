@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: src/public_api.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { NgxsStoragePluginModule } from './storage.module';
+export { NgxsStoragePlugin } from './storage.plugin';
+export { NGXS_STORAGE_PLUGIN_OPTIONS, STORAGE_ENGINE } from './symbols';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3BhY2thZ2VzL3N0b3JhZ2UtcGx1Z2luL3NyYy9wdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7O0FBQUEsT0FBTyxFQUFFLHVCQUF1QixFQUFFLE1BQU0sa0JBQWtCLENBQUM7QUFDM0QsT0FBTyxFQUFFLGlCQUFpQixFQUFFLE1BQU0sa0JBQWtCLENBQUM7QUFDckQsNERBQWMsV0FBVyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgTmd4c1N0b3JhZ2VQbHVnaW5Nb2R1bGUgfSBmcm9tICcuL3N0b3JhZ2UubW9kdWxlJztcbmV4cG9ydCB7IE5neHNTdG9yYWdlUGx1Z2luIH0gZnJvbSAnLi9zdG9yYWdlLnBsdWdpbic7XG5leHBvcnQgKiBmcm9tICcuL3N5bWJvbHMnO1xuIl19

@@ -19,6 +19,6 @@
         "@ngxs/store/internals": "ngxs-store-internals"
       }
     },
-    "dest": "../../@ngxs/router-plugin"
+    "dest": "../../dist/@ngxs/router-plugin"
   }
 }

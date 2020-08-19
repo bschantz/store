@@ -2,12 +2,10 @@
 # **/ - recursive
 
 # compiled output
-**/dist
 **/tmp
 **/out-tsc
 **/src/environments/version.ts
 **/builds
-**/@ngxs*
 
 # dependencies
 **/node_modules
@@ -24,7 +22,6 @@
 *.bak
 /builds
 dist-integration
-/dist
 
 # IDE - VS
 /.vs/slnx.sqlite

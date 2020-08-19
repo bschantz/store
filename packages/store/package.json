@@ -17,6 +17,6 @@
         "@ngxs/store/operators": "ngxs-store-operators"
       }
     },
-    "dest": "../../@ngxs/store"
+    "dest": "../../dist/@ngxs/store"
   }
 }

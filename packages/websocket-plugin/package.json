@@ -17,6 +17,6 @@
         "@ngxs/store": "ngxs-store"
       }
     },
-    "dest": "../../@ngxs/websocket-plugin"
+    "dest": "../../dist/@ngxs/websocket-plugin"
   }
 }

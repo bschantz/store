@@ -17,6 +17,6 @@
         "@ngxs/store": "ngxs-store"
       }
     },
-    "dest": "../../@ngxs/devtools-plugin"
+    "dest": "../../dist/@ngxs/devtools-plugin"
   }
 }

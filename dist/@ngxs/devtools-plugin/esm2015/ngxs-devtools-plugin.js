@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: ngxs-devtools-plugin.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxsReduxDevtoolsPluginModule, NgxsReduxDevtoolsPlugin, NGXS_DEVTOOLS_OPTIONS } from './index';
+export { USER_OPTIONS as ɵb, devtoolsOptionsFactory as ɵa } from './src/devtools.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4cy1kZXZ0b29scy1wbHVnaW4uanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9wYWNrYWdlcy9kZXZ0b29scy1wbHVnaW4vbmd4cy1kZXZ0b29scy1wbHVnaW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFJQSw4RkFBYyxTQUFTLENBQUM7QUFFeEIsT0FBTyxFQUFDLFlBQVksSUFBSSxFQUFFLEVBQUMsc0JBQXNCLElBQUksRUFBRSxFQUFDLE1BQU0sdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vaW5kZXgnO1xuXG5leHBvcnQge1VTRVJfT1BUSU9OUyBhcyDJtWIsZGV2dG9vbHNPcHRpb25zRmFjdG9yeSBhcyDJtWF9IGZyb20gJy4vc3JjL2RldnRvb2xzLm1vZHVsZSc7Il19

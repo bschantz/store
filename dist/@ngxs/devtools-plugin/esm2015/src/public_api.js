@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: src/public_api.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { NgxsReduxDevtoolsPluginModule } from './devtools.module';
+export { NgxsReduxDevtoolsPlugin } from './devtools.plugin';
+export { NGXS_DEVTOOLS_OPTIONS } from './symbols';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3BhY2thZ2VzL2RldnRvb2xzLXBsdWdpbi9zcmMvcHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztBQUFBLE9BQU8sRUFBRSw2QkFBNkIsRUFBRSxNQUFNLG1CQUFtQixDQUFDO0FBQ2xFLE9BQU8sRUFBRSx1QkFBdUIsRUFBRSxNQUFNLG1CQUFtQixDQUFDO0FBQzVELHNDQUFjLFdBQVcsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IE5neHNSZWR1eERldnRvb2xzUGx1Z2luTW9kdWxlIH0gZnJvbSAnLi9kZXZ0b29scy5tb2R1bGUnO1xuZXhwb3J0IHsgTmd4c1JlZHV4RGV2dG9vbHNQbHVnaW4gfSBmcm9tICcuL2RldnRvb2xzLnBsdWdpbic7XG5leHBvcnQgKiBmcm9tICcuL3N5bWJvbHMnO1xuIl19

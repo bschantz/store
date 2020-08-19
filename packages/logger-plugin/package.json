@@ -17,6 +17,6 @@
         "@ngxs/store": "ngxs-store"
       }
     },
-    "dest": "../../@ngxs/logger-plugin"
+    "dest": "../../dist/@ngxs/logger-plugin"
   }
 }

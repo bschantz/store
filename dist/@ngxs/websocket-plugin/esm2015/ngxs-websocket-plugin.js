@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: ngxs-websocket-plugin.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxsWebsocketPluginModule, NGXS_WEBSOCKET_OPTIONS, ConnectWebSocket, WebsocketMessageError, DisconnectWebSocket, WebSocketDisconnected, SendWebSocketMessage, WebSocketConnectionUpdated, WebSocketConnected } from './index';
+export { noop as ɵc } from './src/symbols';
+export { WebSocketHandler as ɵd } from './src/websocket-handler';
+export { USER_OPTIONS as ɵb, websocketOptionsFactory as ɵa } from './src/websocket.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4cy13ZWJzb2NrZXQtcGx1Z2luLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vcGFja2FnZXMvd2Vic29ja2V0LXBsdWdpbi9uZ3hzLXdlYnNvY2tldC1wbHVnaW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFJQSw2TkFBYyxTQUFTLENBQUM7QUFFeEIsT0FBTyxFQUFDLElBQUksSUFBSSxFQUFFLEVBQUMsTUFBTSxlQUFlLENBQUM7QUFDekMsT0FBTyxFQUFDLGdCQUFnQixJQUFJLEVBQUUsRUFBQyxNQUFNLHlCQUF5QixDQUFDO0FBQy9ELE9BQU8sRUFBQyxZQUFZLElBQUksRUFBRSxFQUFDLHVCQUF1QixJQUFJLEVBQUUsRUFBQyxNQUFNLHdCQUF3QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2luZGV4JztcblxuZXhwb3J0IHtub29wIGFzIMm1Y30gZnJvbSAnLi9zcmMvc3ltYm9scyc7XG5leHBvcnQge1dlYlNvY2tldEhhbmRsZXIgYXMgybVkfSBmcm9tICcuL3NyYy93ZWJzb2NrZXQtaGFuZGxlcic7XG5leHBvcnQge1VTRVJfT1BUSU9OUyBhcyDJtWIsd2Vic29ja2V0T3B0aW9uc0ZhY3RvcnkgYXMgybVhfSBmcm9tICcuL3NyYy93ZWJzb2NrZXQubW9kdWxlJzsiXX0=
